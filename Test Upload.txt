@@ -12,3 +12,5 @@ change made in branch 2 - no ticket info
 
 
 change made in master 4
+
+Edit for new integration test
